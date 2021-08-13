@@ -75,7 +75,7 @@
     "lottie-web": "^5.6.8",
     "material-design-icons": "^3.0.1",
     "micro": "^9.3.4",
-    "next": "^9.3.2",
+    "next": "^11.1.0",
     "next-cookies": "^2.0.3",
     "next-fonts": "^1.0.3",
     "node-fetch": "^2.6.0",
