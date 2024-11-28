@@ -50,7 +50,7 @@
     "@material-ui/lab": "^4.0.0-alpha.51",
     "@syncfusion/ej2-react-heatmap": "^17.4.51",
     "autoprefixer": "^9.7.5",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "babel-eslint": "^10.1.0",
     "body-parser": "^1.19.0",
     "browser-sync": "^2.26.7",
